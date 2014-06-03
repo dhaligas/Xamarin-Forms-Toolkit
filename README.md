@@ -9,3 +9,9 @@ Call for action for all Xamarin Developers, embrace this project and share your 
 
 Some cross platform services using the new dependecy service patter will also be added to the project.
 
+
+Contributions:
+
+Michael Ridland @rid00z
+
+Rui Marinho @rmarinho
