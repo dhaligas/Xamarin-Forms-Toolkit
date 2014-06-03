@@ -1,4 +1,3 @@
-using System;
 using Android.Util;
 
 namespace Xamarin.Forms.Toolkit.Droid.Controls.Calendar

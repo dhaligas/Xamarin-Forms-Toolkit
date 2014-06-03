@@ -1,14 +1,14 @@
-using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Threading.Tasks;
-using System.Linq;
 using Android.Content;
+using Android.Runtime;
 using Android.Util;
 using Android.Widget;
 using Java.Lang;
+using System;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Linq;
+using System.Threading.Tasks;
 using DroidListView = Android.Widget.ListView;
-using Android.Runtime;
 
 namespace Xamarin.Forms.Toolkit.Droid.Controls.Calendar
 {

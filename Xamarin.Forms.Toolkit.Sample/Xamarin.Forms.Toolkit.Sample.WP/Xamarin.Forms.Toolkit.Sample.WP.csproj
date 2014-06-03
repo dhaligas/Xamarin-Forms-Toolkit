@@ -156,11 +156,11 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Xamarin.Forms.Toolkit.Sample\Xamarin.Forms.Toolkit.Sample\Xamarin.Forms.Toolkit.Sample.csproj">
+    <ProjectReference Include="..\Xamarin.Forms.Toolkit.Sample\Xamarin.Forms.Toolkit.Sample.csproj">
       <Project>{3a377bea-6a48-42d3-b80c-833dae4c552b}</Project>
       <Name>Xamarin.Forms.Toolkit.Sample</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Xamarin.Forms.Toolkit.WP\Xamarin.Forms.Toolkit.WP.csproj">
+    <ProjectReference Include="..\..\Xamarin.Forms.Toolkit.WP\Xamarin.Forms.Toolkit.WP.csproj">
       <Project>{9e9db2ff-3280-489d-9975-e9cddff5cac8}</Project>
       <Name>Xamarin.Forms.Toolkit.WP</Name>
     </ProjectReference>

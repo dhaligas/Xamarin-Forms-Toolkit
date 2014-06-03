@@ -1,8 +1,7 @@
-using System;
-using System.Diagnostics;
 using Android.Content;
 using Android.Util;
 using Android.Views;
+using System.Diagnostics;
 
 namespace Xamarin.Forms.Toolkit.Droid.Controls.Calendar
 {

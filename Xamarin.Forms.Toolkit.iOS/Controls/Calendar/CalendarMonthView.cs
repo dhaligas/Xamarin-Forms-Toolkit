@@ -30,10 +30,8 @@
  
  */
 
-using System;
-using MonoTouch.Foundation;
 using MonoTouch.UIKit;
-using System.Collections;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 

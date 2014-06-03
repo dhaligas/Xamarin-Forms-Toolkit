@@ -1,10 +1,8 @@
-using System;
-using Xamarin.Forms.Platform.Android;
-using Xamarin.Forms;
-using Android.Widget;
 using Android.Views;
-using Android.App;
-using System.Collections.Generic;
+using Android.Widget;
+using System;
+using Xamarin.Forms;
+using Xamarin.Forms.Platform.Android;
 using Xamarin.Forms.Toolkit.Droid.Controls.Calendar;
 
 [assembly: ExportRenderer (typeof (CalendarView), typeof (CalendarViewRenderer))]

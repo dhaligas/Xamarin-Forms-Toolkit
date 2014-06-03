@@ -1,15 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using MonoTouch.Foundation;
-using MonoTouch.UIKit;
-using Xamarin.Forms.Platform.iOS;
-using Xamarin.Forms;
-using Xamarin.Forms.Toolkit.iOS.Controls.Calendar;
-using Xamarin.Forms.Toolkit.Controls;
 using escoz;
+using System;
+using Xamarin.Forms;
+using Xamarin.Forms.Platform.iOS;
+using Xamarin.Forms.Toolkit.Controls;
+using Xamarin.Forms.Toolkit.iOS.Controls.Calendar;
 
 
 [assembly: ExportRenderer(typeof(CalendarView), typeof(CalendarViewRenderer))]

@@ -1,17 +1,7 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-using Android.App;
-using Android.Content;
-using Android.OS;
-using Android.Runtime;
-using Android.Views;
-using Android.Widget;
-using Xamarin.Forms.Toolkit.Services;
 using Android.Speech.Tts;
+using System.Collections.Generic;
 using Xamarin.Forms;
+using Xamarin.Forms.Toolkit.Services;
 
 [assembly: Dependency (typeof (TextToSpeechService))]
 namespace Xamarin.Forms.Toolkit.Droid.Services

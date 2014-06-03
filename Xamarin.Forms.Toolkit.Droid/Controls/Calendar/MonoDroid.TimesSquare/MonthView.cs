@@ -1,11 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Globalization;
 using Android.Content;
 using Android.Util;
 using Android.Views;
 using Android.Widget;
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Globalization;
 
 namespace Xamarin.Forms.Toolkit.Droid.Controls.Calendar
 {

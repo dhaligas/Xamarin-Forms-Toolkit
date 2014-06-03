@@ -1,14 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
-using MonoTouch.Foundation;
-using MonoTouch.UIKit;
-using Xamarin.Forms.Toolkit.Services;
 using MonoTouch.AVFoundation;
 using Xamarin.Forms;
 using Xamarin.Forms.Toolkit.iOS.Services;
+using Xamarin.Forms.Toolkit.Services;
 
 [assembly: Dependency(typeof(TextToSpeechService))]
 namespace Xamarin.Forms.Toolkit.iOS.Services

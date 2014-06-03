@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Toolkit.Sampl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Toolkit.WP", "Xamarin.Forms.Toolkit.WP\Xamarin.Forms.Toolkit.WP.csproj", "{9E9DB2FF-3280-489D-9975-E9CDDFF5CAC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Toolkit.Sample.WP", "Xamarin.Forms.Toolkit.Sample.WP\Xamarin.Forms.Toolkit.Sample.WP.csproj", "{FEA50C28-D5E6-4D38-897D-359B44B4C1DA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Toolkit.Sample.WP", "Xamarin.Forms.Toolkit.Sample\Xamarin.Forms.Toolkit.Sample.WP\Xamarin.Forms.Toolkit.Sample.WP.csproj", "{FEA50C28-D5E6-4D38-897D-359B44B4C1DA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{00869A69-D15A-4B39-8C3D-8E191699A8BD}"
 EndProject
